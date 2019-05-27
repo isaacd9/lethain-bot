@@ -8,4 +8,4 @@ pip install -r requirements.txt
 mkdir blog_posts
 
 python3 generate/scrape.py
-python3 generate/quote.py >tracery.json
+#python3 generate/quote.py >tracery.json
